@@ -1,0 +1,584 @@
+Subcat_ID,Stopword
+1,abrasive polishing wheel abrasives shot
+2,confectionery bakery products  candy cake chocolate jelly cream
+3,additive food  flavor flavour food powder vinegar
+5,snack papad foods namkeens fryums chips processed  namkeen papad roasted chips snack
+7,gum husk shell coir powder
+8,seafood fresh fish  fish fillet frozen crab tuna
+10,dry nuts fruits and  nuts cashew dried raisins peanut
+11,cooking oil  oil refined coconut sunflower seed
+12,pickles sauces  pickle sauce jam chutney amla
+13,feed food pet cake poultry
+14,seeds  seeds seed sesame hybrid seedlings
+15,whole spices cooking ground  powder masala spices cooking salt
+16,coffee tea  tea coffee green black powder
+18,bicycle chain bike wheel parts
+19,aircraft aviation light warning led
+20,connectors  connector connectors terminal cable jack
+21,fish  aquarium fish used tanks fishes
+23,card cards wedding greeting invitation
+24,components engine  engine engines diesel valve parts
+25,equipments handling material  handling pallet stacker equipment truck
+26,spare parts wheeler two automotive  parts automotive spare auto bike
+27,car wheel repair tools tyre
+28,industrial springs  spring springs shock gas absorber
+29,automotive car ignition auto parts
+30,car seat cover motorcycle accessories
+31,trophy medal award crystal plaque
+32,medicine herbal  powder herbal ayurvedic capsules oil
+33,baby diaper products care bottle
+34,stickers tags  sticker stickers tags tag hang
+35,accessories bathroom  towel bathroom dispenser soap holder
+36,batteries  battery batteries charger lithium inverter
+37,bearings  bearings bearing ball roller thrust
+39,car automotive body chassis rear
+40,books magazines book magazine chart
+44,school book  books book children coloring english
+46,books book engineering science technology
+48,suspension leaf arm spring parts
+49,brackets  bracket hardware fittings brackets handles
+51,dustbin bin basket plastic bucket
+52,carpets rugs  carpet rug carpets rugs cotton
+53,cement mortar concrete plaster plant
+54,mattress foam bed sheet air
+55,cd usb case laptop keyboard
+56,computer accessories hardware  computer monitor keyboard laptop mouse
+57,computer computers systems portable  computer desktop laptops computers laptop
+58,networking devices  cable router wireless network modem
+59,industry vertical software communication  software management system antivirus data
+60,gas gases refrigerant dioxide liquid
+61,decorations hair  hair cream face body wash
+62,ice milk cream products  milk dairy cream cheese products
+63,accessories equipment dental  dental crown orthodontic implant cleaner
+64,chemical chemicals compound laboratory  acid sodium powder chemicals potassium
+65,pigments dyes industrial  dyes pigment dye pigments color
+66,conditioner commercial air  air conditioner industrial chillers chiller
+67,speakers  speaker headphone bluetooth headset speakers
+68,capacitor resistor capacitors resistors choke
+69,boiler  boiler boilers steam fired tube
+70,wires cables electric  cable cables wire insulated harness
+71,spare & parts consumables compressor air accessories  compressor air compressors oil refrigeration
+72,heat exchangers  heat cooling exchanger tower exchangers
+73,drilling machine drill boring rig
+74,motors electric  motor motors ac electric geared
+75,fittings furniture  furniture chair leg parts table
+76,electronic boards amplifiers  electronic pcb rectifier module rectifiers
+77,furniture metal  iron steel metal table stainless
+78,industrial furnaces chimney  furnace furnaces oven ovens melting
+79,heating & heater components  heater heaters water heating geyser
+80,control drives servo system plc
+81,bulb lighting component light led
+82,conditioner electric air fans  air fan conditioner fans ceiling
+84,pet utensils  pet dog cage poultry animal
+85,industrial pumps  pump pumps water submersible centrifugal
+86,railway rail sleeper plate parts
+87,generator  generator diesel alternator turbine power
+88,switches electrical  switches switch modular limit button
+89,system intercom  system telephone wireless communication cable
+90,electrical components  coil electrical cores core coils
+92,transformers  transformer transformers power current distribution
+93,table sofa chair  table sofa chair plastic bean
+94,water treatment plant system plants
+95,couplings  ladder nozzle roller industrial nozzles
+96,extraction machine extractor plant refining
+97,filters  filters filter air oil bag
+98,fiberglass frp sheet fiber chopped
+99,fertilizer  fertilizer fertilizers organic soil granules
+100,forged forgings forging steel components
+101,fresh vegetables  onion dried dehydrated frozen flake
+102,furniture wooden  wooden furniture table wood chair
+103,furniture  rack drawer racks shelves wooden
+104,badge ribbon lanyard badges patches
+105,towel apron napkin tissue cotton
+106,kids clothing  kids girls boys shirts childrens
+107,lace  lace elastic laces tape sequin
+108,ladies wear women dresses  ladies kurti top cotton printed
+110,silk fabric satin dress cotton
+111,button zipper buckle buttons metal
+112,commercial sink food tandoor chafing
+113,gloves helmets industrial clothing safety  gloves glove safety leather industrial
+114,sealants industrial adhesives  adhesive adhesives sealant glue silicone
+115,brass metal crafts copper letter
+116,ceramic clay terracotta pottery ceramics
+117,glassware  glass mirror crystal bottle mirrors
+118,gift items decorative box  boxes gift box decorative basket
+119,wood crafts  wooden wood boxes bamboo box
+122,energy health adult foot card
+123,machines cardio  exercise machine bike fitness treadmill
+126,appliance home kitchen appliances  electric oven machine washing iron
+127,conveyor industrial belt belts  belt conveyor belts roller chain
+128,tank storage  tanks tank water storage containers
+130,valves industrial  valve valves ball check butterfly
+131,accessories puja  incense sticks dhoop pooja thali
+132,industrial chemicals  sodium acid chemicals chloride powder
+133,castings metal  castings casting die parts steel
+135,gold jewelry  gold white bullion pendant necklace
+136,hair ornaments fancy jewelry  pendant jewelry ring fashion jewellery
+137,silver sterling ring jewelry pendant
+138,ring stone pendant gemstone necklace
+139,jute coir hessian felt cloth
+141,leather jacket coat mens womens
+142,leather belt belts key tool
+143,leather bag case bags handbag
+144,leather animal  leather hides buffalo finished split
+145,shoes  shoes casual leather ladies sandal
+147,special purpose vehicle bus  vehicle rickshaw electric bus van
+148,lock door  lock locks door lockout padlock
+149,bags backpacks travel  bag backpack bags travel trolley
+150,agricultural machine seed sprayer tiller
+151,bending construction equipment machine  machine concrete making plant block
+153,plant chemical equipment distillation oil
+154,cutting tools  cutter cutting cutters diamond tools
+155,parts earthmoving machinery  excavator loader loaders wheel motor
+156,processing food slicer machine  machine food mixer processing grinder
+157,tools garden  garden lawn mower tools trimmer
+158,parts grinding  grinding machine mill milling grinder
+159,tools tool hand vice knives
+160,press pneumatic machines hydraulic  hydraulic machine press pneumatic presses
+161,machine diamond jewelry chain jewellery
+162,marine equipments  marine boat ship fender engine
+163,tools machine tool screw spindle
+164,machinery semi rolling industrial punching spm automatic  machine making machinery plant machines
+165,production oil plant  oil machine extraction plant press
+166,food machines packaging  machine packaging lamination packing machines
+167,machine tablet pharmaceutical filling making
+168,equipment industrial installation  services service installation plant erection
+169,spares machinery printing  printing machine printer printers label
+170,machinery pvc plastics  machine plastic making pipe plant
+171,grain rice  rice flour basmati bean sugar
+172,rubber machine plant tyre pyrolysis
+173,machines sewing  machine sewing knitting embroidery machines
+175,machine dispensers vending  vending machine machines dispenser water
+176,textile machines processing  machine machines fabric textile winding
+177,machine welding  welding machine welder services mig
+178,stone  granite stone marble sandstone slab
+180,coal  coal carbon graphite charcoal coke
+181,alloys alloy ferro copper bronze
+184,powder ore sand quartz iron
+185,metal aluminum round bars sheets  metal aluminium aluminum plate sheet
+187,pharmaceutical chemical  acid pharmaceutical sodium intermediates gelatin
+188,ferrous non metal scrap scraps  scrap copper metal steel aluminium
+189,steel products  steel stainless mild galvanized carbon
+190,apparatus hospital medical theater equipments icu operation  equipment medical oxygen concentrator machine
+191,panel wall concrete panels board
+192,mosquito repellent trap killer insect
+193,medical disposable surgical bag mask
+194,music instruments  guitar drum violin musical instruments
+195,fasteners  fasteners rivet fastener stud anchor
+196,industrial oils lubricants  oil grease oils lubricants engine
+197,wax bitumen paraffin fuel oil
+198,automation office equipments  printer machine projector scanner machines
+199,paper roll rolls kraft coated
+200,printing ink cartridge  ink toner cartridges printing cartridge
+201,accessories packing  strap strapping box packing stitching
+202,paints  paints paint primer wall emulsion
+203,agricultural pesticides  insecticide pesticides organic bio fungicides
+204,camera  camera digital lens video flash
+206,components plastic  plastic pvc scrap polyurethane rod
+207,artificial flower dried potpourri plant
+208,plastic granules  granules masterbatch granule polymer plastic
+209,wood plywood board particle laminated
+210,air dust waste purifiers recycling
+211,display led displays light moving
+213,bag bags woven pp hdpe
+214,tyres & motorcycle commercial wheel automotive car vehicle  wheel tyres tyre tire truck
+215,antique collectible  antique coin wooden metal telephone
+216,resin  resin resins epoxy acrylic shellac
+217,needle knitting needles embroidery bobbins
+218,rope  rope ropes twine wire steel
+219,rubber products  rubber silicone sheet roller parts
+220,equipments industrial safety  safety equipment helmet harness rescue
+222,sports wear  sports suit shorts football t
+223,sanitary ware  toilet sink wash seats kitchen
+224,sarees  saree sarees silk cotton lehenga
+225,soaps  soap soaps detergent washing powder
+226,acetate solvent solvents butyl glycol
+228,office stationery  holder paper stamp pen clip
+229,god idols  statue marble god ganesh brass
+230,steering transmission parts wheel power
+231,tents  tent tarpaulin tents canvas tarpaulins
+232,jute bags  bag bags jute cotton canvas
+233,embroidered dress chikan garments wear
+234,textile fabrics natural  fabric fabrics polyester cloth cotton
+235,fabric cover home covers chair
+236,bed linen  bed sheet cover sheets bedding
+237,socks legging ladies cotton leggings
+238,blinds  blind blinds wallpaper bamboo wall
+239,mens shirt men shirts cotton
+240,scarves scarf stoles silk printed
+241,jacket sweater fleece winter woolen
+242,fibers threads yarn  yarn thread cotton polyester fiber
+243,video games  game toy car games video
+245,umbrella  umbrella rain waterproof raincoat garden
+246,truck heavy  truck trailer trucks parts trailers
+247,flooring floor tile pvc epoxy
+248,decorative clock  clock watches watch wall wrist
+249,measurement instrument  meter meters digital water level
+250,stone tiles  tile tiles stone marble granite
+254,gas cylinder lpg cylinders regulator
+255,tattoo body tattoos glitter hair
+256,fighting fire equipments  fire extinguisher alarm smoke fighting
+257,services vastu astrology service consultancy
+259,treatment ayurvedic  treatment therapy ayurvedic services massage
+260,construction service  services construction service waterproofing grouting
+261,services service support call center
+266,services software service testing application
+267,computer language services training  training services service course computer
+268,services staffing service recruitment staff
+270,data work entry  data services service management entry
+271,services investigation verification service investigations
+274,organizers event set stall service up  services exhibition service event stall
+277,licensing services  services service export licensing import
+278,management service farm  services farming consultancy service consultants
+283,club fitness  services hair treatment service massage
+285,management resource human  services management service resource employee
+286,service banking  services service banking credit corporate
+290,translation services language service interpretation
+292,services landscape garden landscaping gardening
+294,device anti theft  system parking security car metal
+296,corporate training  training services service development skills
+297,research market service  services research market service survey
+299,services service production film multimedia
+301,services service magazine news media
+302,entrance coaching institutes  coaching online services training service
+305,services patent registration service trademark
+310,accounting services  services accounting service account cost
+311,advertising service  services service advertising media brand
+313,engineering service services architectural civil  services service engineering design designing
+319,interior design  interior designing services design service
+322,contractor electrical  services service electrical installation cable
+323,real estate services  services property land service estate
+324,sheet steel fabrication metal vessel structural  fabrication services service metal sheet
+325,investment financial consultants service  services service financial investment finance
+327,tax service services consultancy registration
+328,service insurance  insurance services service policy processing
+329,testing services  testing services service analysis water
+330,law attorneys services legal service
+331,services marketing  marketing services service sales management
+332,health care service  services service medical health care
+334,relocation service  service services relocation lashing goods
+336,printing services  printing services service digital lamination
+338,hospitality services  service services hotel clubs booking
+339,services trading service equity commodity
+340,printing services fabric service textile
+342,transportation services  services service transportation cargo freight
+343,project services management turnkey service
+344,services storage warehousing cold management
+345,services security service surveillance guards
+346,services social service care organization
+349,tour packages  tour services service packages travel
+351,rental vehicle services  services rental bus service air
+354,machinery repairs  services repair maintenance service repairing
+356,energy services service audit environmental
+358,part elevators  elevator lift lifts passenger door
+360,pharmaceutical injectables drug tablets capsules ointments  injection eye drops tablet cream
+361,henna hair powder color herbal
+362,ladies bags  bag bags handbag embroidered clutch
+364,magnetic magnet magnets separator permanent
+365,corporate gifts  promotional advertising bag customized personalized
+368,hose pipes  hose hoses rubber pipe fittings
+369,gears gearbox industrial  gear gears gearbox shaft sprocket
+370,spare parts tractor accessories fittings  tractor link parts lower ball
+372,marble stone table granite inlay
+374,decorations christmas  christmas tree ornaments decorations ornament
+377,facility management services  services cleaning service housekeeping carpet
+380,horse dog saddle collar leather
+381,decorative light  lamp light led lantern lamps
+383,tester testing test machine equipment
+384,controller controllers temperature logic process
+385,laboratory instruments  laboratory apparatus bath lab model
+390,herbal cosmetics care body aloe
+391,juice herbal  juice herbal aloe supplements powder
+392,medicinal plant  leaves herb herbs root roots
+394,services cad service design conversion
+407,radiator radiators fan steel tank
+408,wood machines working  machine wood woodworking machines carving
+409,closures cap  caps cap bottle seals seal
+410,cigarette pipe smoking hookah ashtray
+411,essential oils  oil oils essential oleoresin seed
+413,instruments accessories and survey nautical  compass telescope nautical station total
+415,paper machine making machines machinery
+416,bone plates orthopedic screws nail
+418,grease lubrication gun oil tools
+424,gas plant oxygen plants nitrogen
+426,paper handmade hand painted bags
+427,burner auto  burner gas stove stoves matches
+432,pneumatic tools hydraulic  pneumatic air hydraulic gun spray
+433,notebook  file notebook folder leather book
+434,plastic bags  bag bags plastic printed packaging
+435,shawls shawl pashmina embroidered viscose
+436,inspection services service quality analysis
+440,microscope  microscope microscopes stereo laboratory medical
+441,textile chemical  textile agent bleaching powder softener
+442,gauge gauges pressure thickness level
+446,table placemat tablecloth cover mat
+447,horn bone shell buffalo camel
+448,net mosquito bird insect nets
+451,camera cctv  camera dome cctv surveillance ip
+453,machines molding  machine casting moulding molding machines
+456,decor garden  garden bird feeder house light
+457,clutch clutches plate plates wheeler
+459,tour services safari tours tourism
+464,services design service designing engineering
+479,door skin automatic pvc sliding
+480,door handles  door handle cabinet handles knobs
+481,curtain rod brass iron bracket
+483,mesh wire perforated gratings steel
+484,gaskets  gasket gaskets rubber asbestos sheet
+487,polishing machine  machine polishing honing finishing deburring
+490,pipes plastic  pipe pipes tube pvc upvc
+492,steel utensils  steel stainless cutlery set kitchen
+495,stamping stampings stamp metal parts
+496,molding injection moulding services mouldings
+497,accessories scaffolding scaffoldings  scaffolding coupler prop scaffold jack
+500,commercial furniture  chair furniture office table tables
+501,beds furniture home  bed furniture table chair bathroom
+502,display stand rack counter acrylic
+510,consultation corporate job recruitment service  recruitment services service placement management
+512,tie necktie ties silk bow
+513,job machining work  services service job work metal
+515,writing board  board whiteboard interactive boards magnetic
+516,pen ball pencil pens marker
+517,gadgets powered solar  solar water heater power light
+519,cleaner liquid  cleaners cleaning cleaner wipe floor
+520,canvas drawing craft art easel
+521,clean cleanroom room laminar flow
+522,laser optical lasers system prism
+525,exercise body bike band equipment
+527,park kids equipment play amusement  inflatable slide swing playground amusement
+530,pool swimming equipment accessories boats  pool swimming boat inflatable pools
+532,golf archery air bowling set
+533,cricket equipment  cricket bat ball football equipment
+535,kitchen chef oven mitt cap
+536,used machines machine knitting equipment
+539,piston  piston cylinder shaft rocker camshaft
+540,seals  seal seals ring rubber oil
+541,exhaust system intake air parts
+542,fuel injector oil diesel nozzle
+543,parts brake  brake brakes pad disc cylinder
+544,ic diode led transducers transistor
+549,containers boxes metal  tin packaging container metal cans
+550,foam thermocol blister packaging bubble
+551,tape  tape tapes adhesive 3m paper
+552,film rolls packaging  film plastic pvc foil packaging
+556,machine marking labelling coding label
+557,fruit dry wooden tray
+558,machines filling  machine filling packing packaging automatic
+559,materials food packaging  food boxes packaging box bags
+560,pouch envelopes packaging  pouches pouch envelope envelopes bag
+561,boxes box corrugated packaging carton
+563,machine packing packaging fill machines
+564,autoclave sterilizer incubator autoclaves oven
+565,extracts herbal  extract extracts leaf natural seed
+566,cotton bandage gauze dressing tape
+567,& life machines systems parts patient medical equipment accessories support devices monitoring diagnostic clinical  machine monitor pressure blood medical
+568,injection tablets tablet drugs drug
+569,tablets sodium hydrochloride hcl antidepressant
+570,vaccine vaccines injection rabies b
+571,drugs tablets antiviral injection tablet
+572,tablets pain relief drug paracetamol
+573,inhaler asthma tablet sodium tablets
+574,hearing aids  hearing aids ear ent laryngoscope
+575,hospital equipment furniture  hospital bed trolley chair stretcher
+576,disposable gloves glove mask medical
+577,lab poct & test kits strips histopathology devices equipments accessories diagnostic instrument  machine x ray test ecg
+578,nutraceuticals  supplements protein vitamin fitness powder
+580,syrup digestive drugs tablets tablet
+581,rehabilitation physiotherapy equipment  therapy support knee equipment machine
+582,& unifying materials dissecting tissue instruments equipments accessories graspers surgical  surgical forceps retractor scissor instruments
+583,needle needles lancet disposable syringe
+586,catheter urology double equipment stent
+589,crane  crane cranes pulley hoist hoists
+590,hook chain lifting chains block
+591,control panel electric  panel control panels box boxes
+592,industrial carts trolley  trolley cart carts truck tool
+593,cylinders hydraulic  cylinder hydraulic cylinders pneumatic power
+594,jacks hydraulic winches lift jack
+596,mixers industrial  mixer mixers mixing machine agitator
+597,systems storage  rack racks storage system pallet
+598,inverters  inverter ups solar power supply
+599,tanks tank vessel reactor pressure
+601,machine wire winding coil machines
+602,office laptop bags  laptop bag bags case leather
+603,bags bag sports golf backpack
+604,bags  bag bags case shopping school
+605,furniture outdoor  garden chair outdoor furniture swing
+606,pots plant  planter pot garden planters plant
+607,fountain water  fountain water fountains bird bath
+608,curtains  curtain curtains window shower pvc
+609,cushions  cushion pillow cover pillows cushions
+610,floor mats  mat mats rubber bath door
+611,blankets  blanket blankets quilt quilts baby
+612,belts  belt belts leather fashion webbing
+613,silver plated sterling glass wine
+614,diamond  diamond cut pave pendants rings
+615,caps fashion  cap hat hats caps knitted
+616,gemstone  stone gemstone stones cut precious
+617,wallet purse  wallet leather purse coin purses
+618,awnings  canopy awnings awning gazebo shed
+621,bamboo lantern
+622,paintings  painting paintings oil canvas mural
+624,wall hanging hangings wind metal
+625,balloons  party rakhi mask diya balloon
+626,coasters coaster napkin holder bottle
+627,glass laboratory pipette tube bottle
+628,sensors  sensor sensors temperature load transducers
+629,scale weighing  scale weighing balance scales electronic
+630,analyzer analyzers gas spectrometer spectrophotometer
+632,equipment rental construction  rental services crane service lift
+635,faucets  faucet shower tap taps bathroom
+637,shower enclosure bathroom glass steam
+639,flooring wooden  flooring wooden laminate hardwood floorings
+640,floor designer tiles  tiles tile ceramic floor wall
+641,paver paving stone pebbles pebble
+643,materials building  bricks brick concrete block sand
+644,beam steel beams structural bar
+646,window door  door doors window windows upvc
+647,gates grills fence  gate fence fencing grill gates
+648,structures prefabricated  portable prefabricated house cabin shelters
+649,ceiling false sheets roofing  roofing sheet ceiling roof sheets
+650,spare & parts coating machine  machine coating paint spray powder
+654,services designing  services designing design service 3d
+656,vehicle repair maintenance wheeler heavy commercial services and four  services repair service car bus
+658,survey services service mapping surveys
+659,valuation services  services service audit valuation money
+663,computer & repair maintenance services  services service server data management
+664,decoration entertainment service events  services service decoration wedding party
+667,& home industrial appliances repair maintenance  services service repair repairing maintenance
+669,risk services management advisory service
+670,services courses course training engineering
+671,compliance services service law statutory
+672,services service management outsourcing payroll
+673,calibration services  calibration services service meter gauge
+676,providers loan service  loan loans services finance service
+677,audit services service auditing internal
+678,laboratory pathology  services testing service x ray
+679,control pest services  control pest service services treatment
+680,plating coating services  services coating service plating spray
+682,photography services service photo digital
+684,training courses diploma services course
+686,training vocational  training services classes dance course
+687,services waste service treatment water
+688,services service web website development
+690,embroidery work service services stitching
+693,wine bar glass beer steel
+694,baking tray cake pizza pan
+695,accessories tools kitchen  cutlery spoon kitchen plastic fork
+696,mug coffee cup tea steel
+697,tableware  bowl tray glass plate set
+698,grill barbecue bbq gas accessories
+699,cooker pan pressure cooking pot
+700,disposable paper cup plastic plate
+701,water bottle steel container lunch
+702,knives  knives cutter kitchen stainless steel
+703,flag flags banner car sports
+709,light source surgical lights led
+710,uniform school uniforms security shirt
+711,embroidery embroidered hand fabrics fabric
+713,juice water fruit drinks drink
+714,shoes sports running boots shoe
+715,footwear accessories  shoe insole sole footwear shoes
+716,safety shoes boots boot gumboots
+717,dry plant garden leaves natural flowers outdoor  plant flower plants tree rose
+718,clothes baby  baby infant dress shirt t
+719,cotton denim clothing  denim cotton clothing shirt jeans
+720,dress dresses wear evening sherwani
+721,printed shirt t designer garments
+722,garments readymade  shirt t shirts vest casual
+723,undergarments lingerie  bra ladies underwear cotton mens
+724,glove gloves knitted cotton hand
+725,hair beauty care equipment products salon  hair kit facial brushes care
+727,brushes industrial  brushes brush wire cup industrial
+728,soldering services welding brazing metal
+730,machine coffee making plant chips
+731,machine fruit plant juice processing
+733,flour machines processing grain mill  machine mill rice processing flour
+734,furniture services service designing repairing
+735,services service telecom mobile payment
+736,boring services  services drilling boring exploration mining
+737,printing services service foil glass
+738,wheelers van used motorcycle scooter two vehicles  cars scooter used bike car
+739,device gps tracking  gps tracking navigation system device
+740,card system access fingerprint control
+741,traffic road barrier light solar
+742,mannequin display stand mannequins male
+743,injection tablet tablets capsules anti
+746,press machine presses briquetting power
+747,keychain key chain opener keyring
+748,machine rolling bending roll forming
+750,mobile phones accessories  mobile phones phone charger power
+751,advertising led signage signs banners  sign signs board signage led
+756,meter meters digital tester energy
+758,light lights street led lamp
+762,tv  tv led home smart television
+763,metal wire  wire copper steel wires conductors
+766,toy toys car plastic gun
+767,ladies fashion earrings  earring earrings jhumkas plated ear
+768,necklace  necklace bead set choker beaded
+769,cotton fabric wool textile fabrics
+771,flow meter  flow meter thermometer thermocouple thermometers
+772,bolts  bolts bolt head steel hex
+773,nuts  nuts nut hex steel brass
+774,screws  screw screws head socket hex
+775,washer  washers washer spring steel lock
+776,flanges  flanges flange steel stainless blind
+777,pipe industrial fitting  pipe fittings fitting steel forged
+779,relays  relay relays phase protection voltage
+780,furniture kitchen  kitchen dining table modular set
+781,cutting machine  cutting machine machines paper laser
+782,fuse breakers circuit electrical  fuse circuit breaker switches switch
+784,separating machine  separator strainer strainers oil separators
+785,power tools  electric tools power saw drill
+787,cleaning machinery  cleaning machine cleaner vacuum cleaners
+791,player video dvd audio cd
+792,camera spy  camera spy device pen detector
+793,bangles bracelet  bracelet bangle bangles bracelets beaded
+795,steel bars bar stainless round
+796,sheet sheets pvc plastic acrylic
+797,data storage device  drive hard usb disk pen
+798,paper bag tube board bags
+799,antenna accessories  antenna tower dish antennas towers
+801,chocolate cookies  chocolate biscuit cookies biscuits chocolates
+803,pallet pallets wooden crates plastic
+804,service services marketing media social
+805,fruits fresh  pulp frozen apple fruit coconut
+806,hooks hanging  mount hooks hook wall mounting
+809,machine tools carbide shear tap
+810,accessories hair  hair cosmetics beauty skin cosmetic
+811,press printing machine presses binding
+812,fittings door  door hinges brass bolt hinge
+814,toys kids  toy toys inflatable ball plastic
+815,systems cultivator agricultural irrigation  irrigation harvester thresher sprinkler cutter
+817,glass fabrication services glazing service
+818,bits drill  drill bits bit drills chuck
+819,circuit module pcb board control
+820,automotive lights  light lights lamp led bulb
+821,detector metal  detector detectors metal motion bomb
+822,audio systems  audio amplifier digital microphone recorder
+823,adapters socket  adapter socket plug adapters power
+824,calibrator timer indicator indicators temperature
+826,led lights  led light bulb lamp lights
+827,media components filter  filter bag filtration press oil
+828,loom textile parts heald yarn
+829,cutting services  cutting services service laser cnc
+830,brushes mop brush cleaning broom
+831,cable card computer cables cord
+833,weight dumbbell bench ball exercise
+834,alarm door system security phone
+835,flooring construction building services  services flooring service construction building
+836,industrial fabric  fabric fabrics woven nylon cloth
+837,services treatment medical  treatment surgery services service laser
+838,hand tools  plier tool wrenches tools screwdriver
+839,software development services  development application software services service
+840,spare parts refrigerator  refrigerator freezer refrigeration cooler commercial
+841,conveyors  conveyor conveyors screw roller system
+842,purifiers water  water ro purifiers purifier filter
+843,military binocular army camouflage police
+845,welding electrodes  welding electrode electrodes rods rod
+847,organic powder oil dal flour
+848,sweets  laddu sweets halwa burfi chikki
+849,eat food to ready  instant canned soup frozen food
+850,containers plastic  plastic bottle bottles jar container
+851,3d printer printing sla service
+852,air fans fan blower blowers
+853,generic drugs drug anti medicines
